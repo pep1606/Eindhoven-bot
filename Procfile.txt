@@ -1,1 +1,1 @@
-worker: bot cookie.py
+worker: bot.py
